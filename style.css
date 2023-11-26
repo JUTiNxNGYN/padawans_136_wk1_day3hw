@@ -1,0 +1,8 @@
+.button{
+    display: inline-block;
+}
+
+.New{
+    display: flex;
+    justify-content: center;
+}
